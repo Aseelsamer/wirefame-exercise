@@ -5,6 +5,9 @@ ul {
     overflow: hidden;
     background-color: #333;
     height: 20%;
+    margin-bottom: -150px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 
@@ -78,11 +81,43 @@ img {
 
 section img {
     
-    float: left;
-    width: 20%;
+    /* float: left; */
+    width: 31%;
     padding:10px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
     
 }
+section{
+    margin-right: 275px;
+    margin-left: 275px;
+}
 
+
+
+input {
+    width: 100px;
+    background-color:black;
+    color:white ;
+    font-weight: bold;
+    font-size: x-small;
+
+}
+
+div {
+    width: 12px;
+    direction: ltr;
+  overflow: auto;
+}
+
+h1{
+    font-weight: bolder;
+}
+
+footer{
+    background:url("https://queenofthecardeal.com/wp-content/uploads/2019/01/footer-background-color.jpg")  repeat-x scroll top transparent; 
+    height: 130px; 
+    width:100%; 
+    overflow:hidden;
+    margin-top: 200px;
+}
